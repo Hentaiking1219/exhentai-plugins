@@ -3,7 +3,7 @@
 	var menu = $('#nb');
 
 	if(exSrc.length) {
-		window.location.href = 'http://exhentai.org/login';
+		window.location.href = 'https://exhentai.org/login';
 	} else if(menu.length) {
 
 		menu.append($("<img>", { src: "http://st.exhentai.net/img/mr.gif", alt: "" }));

@@ -70,7 +70,7 @@ function loginToEhResult(r) {
         
         //alert('Login successful, we\'re sending you back to the home page now!');
         
-        window.location.href = 'http://exhentai.org';
+        window.location.href = 'https://exhentai.org';
     }
 }
 
